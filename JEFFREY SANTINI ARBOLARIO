@@ -1,0 +1,5 @@
+v25.1.0
+11.6.2
+nvm install 25
+. "$HOME/.nvm/nvm.sh"
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
